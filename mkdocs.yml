@@ -1,0 +1,22 @@
+# You can pass the custom site name here
+site_name: 'awesome-docs'
+site_description: Company docs website
+site_url: '' #necessário para o Kroki não crashar
+# docs_dir: 'docs'
+# repo_url: 'company/awesome-docs'
+
+nav:
+  # relative reference to your Markdown file and an optional title
+  - Home: index.md
+# markdown_extensions:
+#   - markdown_inline_mermaid
+
+# plugins:
+#   - techdocs-core
+#   - kroki:
+#       # DownloadImages: true
+#       # EmbedImages: true
+#       # DownloadDir: 'images/kroki_generated'
+#       FileTypes:
+#         - png
+#         - svg

@@ -1,0 +1,7 @@
+site_name: example-web-docs
+site_url: '' #workaround to kroki work
+docs_dir: docs
+repo_url: http://ghit
+plugins:
+  - techdocs-core
+  - kroki
