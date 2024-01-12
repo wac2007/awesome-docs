@@ -15,6 +15,14 @@ yarn install
 yarn dev
 ```
 
+## Start local Kroki server:
+
+Copy file `app-config.local-example.yaml` and rename-it to `app-config.local.yaml`.
+
+```
+docker-compose up
+```
+
 ## Keeping Backstage updated
 
 Link: https://backstage.io/docs/getting-started/keeping-backstage-updated/
